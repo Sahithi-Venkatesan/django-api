@@ -3,9 +3,10 @@ It's an API in Django using Postman
 
 To run the file locally
 Install the prerequisites:
+
 Use the following command
 
-sudo apt install python3 python3-pip virtualenv libpq-dev python3-dev build-essential postgresql-server-dev-all
+    sudo apt install python3 python3-pip virtualenv libpq-dev python3-dev build-essential postgresql-server-dev-all
 
 Then use the command:
 
