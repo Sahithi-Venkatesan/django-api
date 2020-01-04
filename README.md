@@ -25,14 +25,14 @@ If the above command fails:
     
 4)Make and migrate the db
 
-  python manage.py makemigrations
+    python manage.py makemigrations
   
-  python manage.py migrate
+    python manage.py migrate
   
 5)Static files
 
-  python manage.py collectstatic
+    python manage.py collectstatic
   
 6)Start the server
 
-  python manage.py runserver
+    python manage.py runserver
