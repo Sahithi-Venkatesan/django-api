@@ -9,11 +9,13 @@ sudo apt install python3 python3-pip virtualenv libpq-dev python3-dev build-esse
 
 Then use the command:
 
-./start
+    ./start
 
 If the above command fails:
 
-1)./venv/bin/activate
+1)  Use the command
+    
+        ./venv/bin/activate
 
 2)If venv does not exist => create it
 
