@@ -13,7 +13,7 @@ Then use the command:
 If the above command fails:
 1)./venv/bin/activate
 
-2) # if venv does not exist => create it
+2) #if venv does not exist => create it
     virtualenv -p python3 venv
     
 3)# activate venv and install the requirements
