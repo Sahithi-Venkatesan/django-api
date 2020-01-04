@@ -18,6 +18,6 @@ If the above command fails:
   python manage.py makemigrations
   python manage.py migrate
 5)# static files
-  # python manage.py collectstatic
+  #python manage.py collectstatic
 6)# start the server
   python manage.py runserver
